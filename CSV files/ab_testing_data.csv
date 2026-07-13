@@ -1,0 +1,11 @@
+Customer_ID,Region,Website_Version,Spend_Amount
+1,Region_A,Old_Layout,45
+2,Region_A,New_Layout,55
+3,Region_B,Old_Layout,30
+4,Region_B,Old_Layout,32
+5,Region_A,New_Layout,65
+6,Region_B,New_Layout,42
+7,Region_A,Old_Layout,48
+8,Region_B,New_Layout,50
+9,Region_A,New_Layout,58
+10,Region_B,Old_Layout,35
