@@ -1,0 +1,11 @@
+Customer_ID,Name,Region,Join_Month,Website_Version,Spend_Amount,Satisfaction_Score
+101,Aman,Region_A,2026-01,Old_Layout,4500,65
+102,Priya,Region_A,2026-01,New_Layout,5500,88
+103,Rahul,Region_B,2026-02,Old_Layout,3000,30
+104,Sneha,Region_B,2026-02,Old_Layout,3200,45
+105,Amit,Region_A,2026-02,New_Layout,6500,92
+106,Riya,Region_B,2026-03,New_Layout,4200,25
+107,Vikram,Region_A,2026-03,Old_Layout,4800,70
+108,Neha,Region_B,2026-03,New_Layout,5000,35
+109,Sanjay,Region_A,2026-03,New_Layout,5800,80
+110,Pooja,Region_B,2026-03,Old_Layout,3500,60
